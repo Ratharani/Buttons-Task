@@ -1,0 +1,100 @@
+.btn-primary {
+      background-color:#0055b3;
+	  padding:15px 25px;
+	  color:white;
+	  border-radius:4px;
+	  font-weight:bold;
+	  margin-top:350px;
+	  margin-left:200px;
+}
+.btn-primary:hover {
+	  background-color:#006ee6;
+	  transition:0.08s;
+}	  
+
+.btn-secondary {
+	  background-color:#97978F;
+	  padding:15px 25px;
+	  color:white;
+	  border-radius:4px;
+	  font-weight:bold;
+	 
+}
+.btn-secondary:hover {
+	  background-color:#88807B;
+	  transition:0.08s;
+}	  
+
+.btn-success {
+	  background-color:#68BB59;
+	  padding:15px 25px;
+	  color:white;
+	  border-radius:4px;
+	  font-weight:bold;
+}
+.btn-success:hover {
+	  background-color:#A4DE02;
+	  transition:0.08s;
+}	  	  
+.btn-danger {
+      background-color:#FF2400;
+	  padding:15px 25px;
+	  color:white;
+	  border-radius:4px;
+	  font-weight:bold;
+	 
+}
+.btn-danger:hover {
+	  
+	  background-color:#de0a26;
+	  transition:0.08s;
+}	  	
+.btn-warning {
+	  background-color:#FEC20C;
+	  padding:15px 25px;
+	  color:white;
+	  border-radius:4px;
+	  font-weight:bold;
+	 
+}
+.btn-warning:hover {
+	  
+	  background-color:#FBE106;
+	  transition:0.08s;
+}	  	
+.btn-info {
+	  background-color:#35D7FF;;
+	  padding:15px 25px;
+	  color:white;
+	  border-radius:4px;
+	  font-weight:bold;
+	 
+}
+.btn-info:hover {
+	  background-color:#D2F7FF;
+	  transition:0.08s;
+}	  	
+.btn-light {
+	  background-color:#FFFFFF;;
+	  padding:15px 25px;
+	  color:black;
+	  border-radius:4px;
+	  font-weight:bold;
+	 
+}
+.btn-light:hover {
+	  background-color:#F9F9F3;
+	  transition:0.08s;
+}	
+.btn-dark {
+      background-color:#010101;;
+	  padding:15px 25px;
+	  color:white;
+	  border-radius:4px;
+	  font-weight:bold;
+	 
+}
+.btn-dark:hover {
+	  background-color:#6D6D6D;
+	  transition:0.08s;
+}	  	  	
